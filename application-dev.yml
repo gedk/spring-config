@@ -1,2 +1,2 @@
 auth-center: 
-  skip-url: /auth-center/oauth/token/a/b
+  skip-url: /auth-center/oauth/token/a/c
