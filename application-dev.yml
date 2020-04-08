@@ -1,2 +1,2 @@
-server:
-  port: 8076
+auth-center: 
+  skip-url: a,b,c
